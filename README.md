@@ -1,7 +1,7 @@
 # backchannelling
 Проект по анализу обратной связи в диалоге (на материале русского языка).
 
-Ниже приводятся теоретические предпосылки исследования и выводы. Подробное описание сбора данных и разметки, а также визуализация собранных данных и их статичстических анализ находятся в файле Backchannelling_analysis (<https://github.com/k-vashpanova/backchannelling/blob/main/Backchannelling_analysis.Rmd> {код на R}, <https://github.com/k-vashpanova/backchannelling/blob/main/Backchannelling_analysis.html> {html версия})
+Ниже приводятся теоретические предпосылки исследования и выводы. Подробное описание сбора данных и разметки, а также визуализация собранных данных и их статичстических анализ находятся в файле Backchannelling_analysis ([код на R](<https://github.com/k-vashpanova/backchannelling/blob/main/Backchannelling_analysis.Rmd>), [html версия](<https://github.com/k-vashpanova/backchannelling/blob/main/Backchannelling_analysis.html>))
 
 ## Теоретические предпосылки
 
